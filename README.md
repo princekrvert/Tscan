@@ -1,5 +1,6 @@
 # Tscan
 ## A simple port scanner for termux
+![GitHub Repo stars](https://img.shields.io/github/stars/princekrvert/Tscan?style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/princekrvert?color=%23bb03bb&logoColor=%23ff00ff&style=for-the-badge)
 ***
 ![20201209_183312](https://user-images.githubusercontent.com/56459297/101634537-de843b00-3a4e-11eb-985e-f59ebe0bd69e.jpg)
