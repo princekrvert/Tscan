@@ -8,6 +8,7 @@
  apt-get install python 
  apt-get install python2
  apt-get install python3
+ pip install socket
  git clone https://github.com/princekrvert/Tscan.git
  cd Tscan
  pip install -r requirements.txt
