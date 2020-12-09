@@ -1,5 +1,6 @@
 # Tscan
 ## A simple port scanner for termux
+![MADE IN INDIA](https://img.shields.io/badge/MADE%20IN%20-INDIA-green?style=for-the-badge&logo=appveyor)
 ![GitHub Repo stars](https://img.shields.io/github/stars/princekrvert/Tscan?style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/princekrvert?color=%23bb03bb&logoColor=%23ff00ff&style=for-the-badge)
 ***
