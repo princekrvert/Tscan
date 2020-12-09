@@ -5,14 +5,14 @@
 ***
 ## Installation
 ```
-### apt-get install python 
-### apt-get install python2
-### apt-get install python3
-### git clone 
-### cd Tscan
-###.pip install -r requirements.txt
-### chmod +x Tscan.py
-### ./Tscan.py
+ apt-get install python 
+ apt-get install python2
+ apt-get install python3
+ git clone 
+ cd Tscan
+ pip install -r requirements.txt
+ chmod +x Tscan.py
+ ./Tscan.py
 ```
 ***
 
