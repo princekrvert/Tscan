@@ -8,7 +8,7 @@
  apt-get install python 
  apt-get install python2
  apt-get install python3
- git clone 
+ git clone https://github.com/princekrvert/Tscan.git
  cd Tscan
  pip install -r requirements.txt
  chmod +x Tscan.py
