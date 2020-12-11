@@ -10,4 +10,4 @@ pip install -r requirements.txt
 pip install tqdm
 pip install socket
 clear
-python3 Tsacn.py
+python3 Tscan.py
