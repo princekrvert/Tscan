@@ -3,8 +3,8 @@
 #Date 10 dec 2020
 #VersionV1.0
 apt update && apt upgrade
-apt-git install python
-apt-git install python2
+apt-get install python
+apt-get install python2
 pkg install python3
 pip install -r requirements.txt
 pip install tqdm
