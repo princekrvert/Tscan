@@ -5,6 +5,7 @@
 #Start
 #All import goes here
 import socket
+from tqdm import tqdm
 import time
 import os		
 # make banner
@@ -48,7 +49,8 @@ def scan_port(port):
 				return False
 
 
-for i in range(int(s_point),int(e_point)):
+for i in tqdm(range(int(s_point),int(e_point)), desc ="Scanning"):
+	
 	if scan_port(i):
 		print("open port found {}".format(i))
 	else:
