@@ -8,7 +8,7 @@
 ## __installation__
 
 ```
-git clone 
+git clone https://github.com/princekrvert/Tscan.git
 cd Tscan
 chmod +x *
 ./install.sh
