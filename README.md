@@ -5,4 +5,14 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/princekrvert/Tscan?style=for-the-badge)
 ![Made in india](https://img.shields.io/badge/MADE%20IN%20-INDIA-orange?style=for-the-badge&logo=appveyor)
 
-## installation
+## __installation__
+
+```
+git clone 
+cd Tscan
+chmod +x *
+./install.sh
+
+
+```
+
